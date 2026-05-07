@@ -4,6 +4,10 @@
   "description": "Tomcat Deployment Tool",
   "version": "1.0.0",
   "publisher": "exeltarkus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/exeldtarkus/vscode-tomcat-deployer.git"
+  },
   "engines": {
     "vscode": "^1.118.0"
   },
